@@ -1,4 +1,4 @@
-"""This code calculates the number of total number of ifected over time, given a R0 which the rate its spreading and t0 which is the initially infected
+"""This code calculates the number of total number of ifected over time, given a R0 which the rate its spreading and t0 which is the initially infected"
 
 R0: float = input("Enter R0.")
 t0: int = input("Enter initially infected.")
